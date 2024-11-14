@@ -22,7 +22,7 @@ Download flutter from the above link and follow installation steps. Configure yo
 
 
 ```bash
-  git clone https://github.com/CharlesAbuga/send_me_delivery
+  git clone https://github.com/juma-salim/send_me_delivery
 ```
 After cloning the project cd into it and run it.
 ```bash
