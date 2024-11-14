@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "938646328742",
+    "project_id": "sendmedelivery-90a5b",
+    "storage_bucket": "sendmedelivery-90a5b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938646328742:android:fb27f542ebfdffe60dab67",
+        "android_client_info": {
+          "package_name": "com.example.send_me_deliveries"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNK1pwNp9TiOb_dyB8MmiBytLOob0Xgeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
